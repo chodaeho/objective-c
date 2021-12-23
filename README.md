@@ -30,4 +30,4 @@
 # 2. keyword 설명
     - alloc : allocate, 객체르 메모리에 할당
     - init() : 초기화
-    - typedef : 데이터 형에 다르 이름을 부여하느 기능 ex) typedef int Counter; Counter형을 변수로 선언하여 사요 가능
+    - typedef : 데이터 형에 다르 이름을 부여하느 기능 ex) typedef int Counter; Counter형을 변수로 선언하여 사용 가능
