@@ -1,4 +1,4 @@
-# objective-c
+# 1. objective-c
 ### Header(.h) 파일
  #### 1) 메서드나 변수
     - header파일에서 메서드나 변수(상수)를 선언
@@ -27,7 +27,6 @@
  #### 4) @synthesize
     - 선언부에 선언된 이름 그대로 접근 가능하도록 처리
 
-
-# keyword 설명
+# 2. keyword 설명
     - alloc : allocate, 객체르 메모리에 할당
     - init() : 초기화
